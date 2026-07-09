@@ -77,4 +77,4 @@ For commercial licensing or collaboration, contact: [broahmadsyaf@gmail.com / ww
 I'm an AI System Architect and Loop Engineer. I design operating systems for human-AI collaboration. This is one of them.
 
 **LinkedIn:** [www.linkedin.com/in/ahmad-syafii-6b2666377]
-**GitHub:** [Your GitHub Profile]
+**GitHub:** [[Your GitHub Profile](https://github.com/brovynrecho01)]
